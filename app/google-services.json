@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238843177354",
+    "project_id": "base-69672",
+    "storage_bucket": "base-69672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238843177354:android:7811da9b7e4d704e394073",
+        "android_client_info": {
+          "package_name": "com.example.applicationsukhanov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQh7PtZwN4QpUQPc42Ul8Gvds9gQC7WTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
